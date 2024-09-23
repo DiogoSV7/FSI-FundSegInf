@@ -5,4 +5,11 @@
  * O exploit injeta código malicioso (shellcode) na memória, executando comandos com privilégios administrativos remotamente.
  * O EternalBlue escaneia e infecta outras máquinas vulneráveis na rede, espalhando-se automaticamente e rapidamente​.
 
+ 
  * **Notas importantes:** O **SMB** (Server Message Block) é um protocolo de rede utilizado para compartilhamento de arquivos, impressoras e outros recursos entre computadores em uma rede. Ele permite que computadores com sistemas operacionais diferentes, como Windows, macOS e Linux, acessem e compartilhem dados de forma colaborativa.
+
+
+## Fontes
+
+ * https://www.exploit-db.com/exploits/42315
+ * https://en.wikipedia.org/wiki/EternalBlue
